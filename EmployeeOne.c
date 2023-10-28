@@ -37,4 +37,5 @@ PtrToEmployee searchEmployeeBySalary(PtrToConstEmployee ptr, int tableSize, doub
             return (PtrToEmployee) ptr;
     }
     return NULL;
+    
 }
